@@ -3,7 +3,7 @@
 I am a Front-End Developer of web.
 The life of an engineer is like surfing. You must continue to work hard to have the opportunity
 to catch the wave, but the beautiful feeling of succeeding in the wave makes you forget all your
-hard work and look forward to the next wave.
+hard work and look forward to the next wave.🌊
 
 
 
