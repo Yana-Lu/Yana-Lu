@@ -4,11 +4,11 @@
 
 ## 💡 Projects
 
-- Pick Up(URL:https://pick-up-test-ba782.firebaseapp.com)
-- STYLiSH(https://stylish-9a31b.firebaseapp.com/)
+- [Pick Up](URL:https://pick-up-test-ba782.firebaseapp.com)
+- [STYLiSH](https://stylish-9a31b.firebaseapp.com/)
 
 
-📫 a7636439@gmail.com(a7636439@gmail.com)
+📫 [a7636439@gmail.com](a7636439@gmail.com)
 
 
 
